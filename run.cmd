@@ -1,0 +1,1 @@
+type enter | AssemblyInfo.exe
